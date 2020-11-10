@@ -1,1 +1,1 @@
-This is the icrawler craewling for anime pics
+This is the icrawler crawling for anime pics
